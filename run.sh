@@ -1,0 +1,1 @@
+python -m torch.distributed.launch  --nproc_per_node=8  --nnodes=4  --node_rank=0  --master_addr=10.116.145.144 --master_port=23333  main_pretrain.py

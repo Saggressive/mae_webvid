@@ -1,0 +1,11 @@
+*output_dir/
+imagenet
+imagenet/
+imagenet_demo/
+*logs*/
+pretrained_model/
+process_data/
+WebVid/
+webvid_imgs/
+webvid_imgs_new/
+
